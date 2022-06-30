@@ -7,6 +7,9 @@
 - 옵티마이저: Adam
 - 훈련 및 예측
 
+# Efficient Net
+
+
 # 성능 개선
 - 데이터 증강: 베이스라인과 동일
 - 신경망 구조: 앙상블(efficientnet-b1, efficientnet-b2, efficientnet-b3)
